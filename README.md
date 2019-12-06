@@ -1,5 +1,7 @@
 # dom-exercise-2-20191206
 
+(Note: You will need to create all of the files for this exercise.)
+
 As with the previous exercise, create links, but use the following array of information:
 
 ```js
@@ -28,3 +30,5 @@ Transform each object in the array into DOM elements structured like this:
     <img src="https://www.logodesignlove.com/images/classic/apple-logo-rob-janoff-01.jpg">
 </a>
 ```
+
+Add each of these to a single container element on the page.
